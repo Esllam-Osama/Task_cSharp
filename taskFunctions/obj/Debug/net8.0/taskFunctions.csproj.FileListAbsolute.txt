@@ -1,0 +1,28 @@
+E:\learnC#\New folder\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.exe
+E:\learnC#\New folder\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.deps.json
+E:\learnC#\New folder\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.runtimeconfig.json
+E:\learnC#\New folder\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.dll
+E:\learnC#\New folder\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.pdb
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.AssemblyInfoInputs.cache
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.AssemblyInfo.cs
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.csproj.CoreCompileInputs.cache
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.dll
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\refint\taskFunctions.dll
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.pdb
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.genruntimeconfig.cache
+E:\learnC#\New folder\taskFunctions\taskFunctions\obj\Debug\net8.0\ref\taskFunctions.dll
+E:\learnC#\tasks\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.exe
+E:\learnC#\tasks\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.deps.json
+E:\learnC#\tasks\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.runtimeconfig.json
+E:\learnC#\tasks\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.dll
+E:\learnC#\tasks\taskFunctions\taskFunctions\bin\Debug\net8.0\taskFunctions.pdb
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.AssemblyInfoInputs.cache
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.AssemblyInfo.cs
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.csproj.CoreCompileInputs.cache
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.dll
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\refint\taskFunctions.dll
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.pdb
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\taskFunctions.genruntimeconfig.cache
+E:\learnC#\tasks\taskFunctions\taskFunctions\obj\Debug\net8.0\ref\taskFunctions.dll
